@@ -96,6 +96,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i("SS", "update returns " + getContentResolver().update(uri, cv, "name=?", new String[]{"apple"}));
             }
         });
+        Log.i("Broadcast", "my task id " + getTaskId());
     }
 
     @Override
