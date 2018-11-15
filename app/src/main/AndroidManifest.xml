@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="kevin.com.broadcastreceiver">
+    package="kevin.com.ipc">
 
     <permission
         android:name="com.kevin.permission.broadcast_send_to_specified_target"

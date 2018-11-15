@@ -1,4 +1,4 @@
-package kevin.com.broadcastreceiver;
+package kevin.com.ipc;
 
 import org.junit.Test;
 

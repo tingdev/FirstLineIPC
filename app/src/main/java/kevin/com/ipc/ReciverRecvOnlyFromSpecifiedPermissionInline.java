@@ -1,4 +1,4 @@
-package kevin.com.broadcastreceiver;
+package kevin.com.ipc;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

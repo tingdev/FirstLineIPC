@@ -1,4 +1,4 @@
-package kevin.com.broadcastreceiver;
+package kevin.com.ipc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
